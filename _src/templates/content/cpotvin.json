@@ -1,1 +1,151 @@
-
+{
+  "frontmatter": {
+    "project": "Material Resume - Chet Potvin",
+    "version": "0.0.1",
+    "language": "en",
+    "description": "2025 Resume"
+  },
+  "name": "Chet Potvin",
+  "title": "Lead Solutions Architect",
+  "photo": "https://gravatar.com/avatar/4b03b238575df9e5320447050be2dcba?s=300",
+  "biography": {
+    "label": "Summary",
+    "icon": "mdi-social-person-outline",
+    "p1": "More than 15 years building productive design teams,  solving complex systems challenges and developing thoughtful expertise to foster modern design practices in Agile development environments for mobile and web applications. ",
+    "p2": "Extensive leadership with designers and front-end developers, while enabling a creative environment of success for colleagues and team members."
+  },
+  "contact": {
+    "label": "Contact",
+    "icon": "mdi-communication-call",
+    "items": [
+      {
+        "title": "phone",
+        "icon": "fa-phone-square",
+        "value": "312-720-5069",
+        "href": "tel:3127205069",
+        "type": ""
+      },
+      {
+        "title": "email",
+        "icon": "fa-envelope-square",
+        "value": "cpotvin@kaizio.com",
+        "href": "mailto:cpotvin@kaizio.com",
+        "type": ""
+      },
+      {
+        "title": "twitter",
+        "icon": "fa-twitter-square",
+        "value": "@muqueca",
+        "href": "https://twitter.com/muqueca",
+        "type": ""
+      },
+      {
+        "title": "linkedin",
+        "icon": "fa-linkedin-square",
+        "value": "linkedin.com/in/mtpaiva",
+        "href": "http://linkedin.com/in/mtpaiva",
+        "type": ""
+      },
+      {
+        "title": "website",
+        "icon": "fa-external-link-square",
+        "value": "kaizio.com",
+        "href": "https://kaizio.com",
+        "type": ""
+      }
+    ]
+  },
+  "skill": {
+    "label": "Proficiency",
+    "icon": "fa-sliders",
+    "items": [
+      {
+        "icon": "fa-icon-name",
+        "label": "Sketch App / Photoshop",
+        "level": "90"
+      },
+      {
+        "icon": "fa-icon-name",
+        "label": "Adobe Illustrator /inDesign",
+        "level": "95"
+      },
+      {
+        "icon": "fa-icon-name",
+        "label": "Axure / Ominigraffle",
+        "level": "90"
+      },
+      {
+        "icon": "fa-icon-name",
+        "label": "Marvel / Flinto / Pixate / Webflow",
+        "level": "80"
+      },
+      {
+        "icon": "fa-icon-name",
+        "label": "HTML / Jade",
+        "level": "95"
+      },
+      {
+        "icon": "fa-icon-name",
+        "label": "CSS / LESS / SASS / Booststrap",
+        "level": "95"
+      },
+      {
+        "icon": "fa-icon-name",
+        "label": "AngularJs / NPM / Gulp",
+        "level": "80"
+      }
+    ]
+  },
+  "job": {
+    "label": "Key Skills Assessment",
+    "highlights": [
+      {
+        "role": "As Leader",
+        "items": [
+          {
+            "description": "Directed team of interaction and visual designers to create responsive solution to monitor human violations in real-time, minimizing bank’s regulatory risk to zero",
+            "project": "Barclays Capital client with Sapient"
+          },
+          {
+            "description": "Streamlined UX budget from $4.4M/yr to 1.75M/yr (-60.3%) while establishing a lean cross-functional design and front-end development capable of delivering effectively in an Agile environment",
+            "project": "Thomson Reuters"
+          },
+          {
+            "description": "Lead product design strategy effort for an Investment Management segment, collaborating with over 10 stakeholders to brainstorm and prioritize features, define navigation patterns, and propose user interface design guidelines and framework",
+            "project": "Thomson Financial"
+          }
+        ]
+      },
+      {
+        "role": "As Multidisciplinary Experience Designer",
+        "items": [
+          {
+            "description": "Improved website (lincolncenter.org) user interaction and usability, allowing better customer communication and marketing in online and offline channels, and increase online ticket sales, subscriptions, and other revenue sources",
+            "project": "Lincoln Center for the Performing Arts, as Consultant"
+          },
+          {
+            "description": "Led team to developed interaction strategies, interaction design, prototyping, and visual design for a multidimensional site - Geography, Language and Partner",
+            "project": "Net2Phone, Inc"
+          },
+          {
+            "description": "Architected, designed, and developed a front-end solution delivering thousands of co-branded web- sites and on-demand factsheet PDFs ",
+            "project": "TIAA-CREF client with NewRiver, Inc"
+          }
+        ]
+      }
+    ]
+  },
+  "timeline": {
+    "label": "Professional Experience",
+    "icon": "",
+    "p1": "User experience designer capable of establishing a creative environment for team members to show their talents, complement each other, and strive to achieve the right design solution with measurable results and accountability. A thorough understanding of contemporary methodologies, and a confident influence for small to medium sized teams to thrive in a fast paced, challenging environment while creating thoughtful, innovative good business solutions for the end user.",
+    "infographPhone1": "images/graph-timeline-skills_@2x.png",
+    "infographPhone2": "images/graph-timeline-companies_@2x.png",
+    "infographHi": "images/graph-timeline_@2x.png"
+  },
+  "education": {
+    "label": "Education",
+    "icon": "mdi-social-school",
+    "description": "Electrical Designer, State Center of Technology Ferreira Viana, Rio de Janeiro , Brazil"
+  }
+}
