@@ -17,7 +17,7 @@ var bowerFiles = require('main-bower-files');
 
 
 // JSON containing the content for jade templates
-var resumeFile = './_src/templates/content/mpaiva.json'
+var resumeFile = './_src/templates/content/cpotvin.json'
 
 // get nodejs environment mod
 // command to set environment > NODE_ENV=production gulp
